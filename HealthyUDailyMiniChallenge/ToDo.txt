@@ -1,0 +1,27 @@
+﻿-Implement OAuth - Implement first
+
+-Create user page - implement after oauth is done and working
+	-Add Challenges
+	-Accept Challenges
+	-Complete Challenges
+	-Deny Challenges
+	-History of challenges
+	-Manage account (password, email, etc...)
+	-Friend list
+
+-Create friends page
+	-Find friend
+	-Add friend
+	-remove friend
+	-View friends
+
+-Create admin screens
+	-Add challenges
+	-Remove challenges
+	-Assign Challenges
+
+-Global Challenges
+	-For everyone and controlled by admin only
+	-Round robin list of challenges
+
+-Badges/Achievements on how many challenges you have done (gamification)
